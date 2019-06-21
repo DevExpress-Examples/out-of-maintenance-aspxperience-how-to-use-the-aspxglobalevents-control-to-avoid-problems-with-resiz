@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxperience - how to use the ASPxGlobalEvents control to avoid problems with resizing
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2381/)**
+<!-- run online end -->
 
 
 <p>All complicated DevExpress ASP.NET controls like the ASPxHtmlEditor, ASPxSplitter, require some time for calculating their sizes on the initial page load. This requirement may cause some effects which may be annoying for users.<br />
